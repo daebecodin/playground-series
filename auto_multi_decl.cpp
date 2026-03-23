@@ -12,8 +12,8 @@
 using namespace std;
 
 int main () {
-#if 0
-    auto x = 50, y = 50.0;
-#endif
+
+    auto x = 420, y = 67.0;
+
     return 0;
 }
